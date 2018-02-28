@@ -6,7 +6,7 @@
     "ejs": "*",
     "mongoose": "*",
     "async": "0.1.22",
-    "connect-mongo": "0.2.0",
+    "connect-mongo": "0.5.2",
     "emailjs": "0.3.3",
     "faceplate": "0.4.0",
     "gm": "1.8.1",
